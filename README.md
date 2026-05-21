@@ -1,6 +1,6 @@
 # MindShelf2
 An intelligent organized ChatGPT history and knowledge management system.
-# 🧠 MindShelf2
+# 🧠
 
 > Turn scattered conversations into structured knowledge.  
 > Turn knowledge into action.
@@ -23,7 +23,7 @@ https://arfawassimtn.github.io/MindShelf2
 
 ---
 
-## ✨ Why MindShelftn?
+## ✨ Why MindShelf2
 
 Modern AI conversations are powerful… but temporary.
 
