@@ -20,7 +20,7 @@ Think of it like:
 
 🚀 Try MindShelftn here:
 
-https://arfawassimtn.github.io/Mindshelftn 
+https://arfawassimtn.github.io/Mindshelf2
 
 ---
 
