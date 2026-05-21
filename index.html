@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MindShelf v1.1</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div class="app">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <h2>🧠 MindShelf</h2>
+
+    <input type="text" id="searchInput" placeholder="Search chats..."/>
+
+    <div class="categories">
+      <button onclick="filterCategory('all')">All</button>
+      <button onclick="filterCategory('AI')">AI</button>
+      <button onclick="filterCategory('Business')">Business</button>
+      <button onclick="filterCategory('Study')">Study</button>
+      <button onclick="filterCategory('Ideas')">Ideas</button>
+    </div>
+
+    <button class="new-btn" onclick="createChat()">+ New Chat</button>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main">
+
+    <h1>Your Knowledge Hub</h1>
+
+    <div id="chatList" class="chat-list"></div>
+
+  </main>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
